@@ -11,7 +11,7 @@ namespace DAL_PolyCafe
 {
     public class DBUtil
     {
-        public static string connString = @"Data Source=DEIMOS\SQLEXPRESS;Initial Catalog=PolyCafe;Integrated Security=True;Trust Server Certificate=True";
+        public static string connString = @"Data Source=XLONG\SQLEXPRESS;Integrated Security=True;Persist Security Info=False;Pooling=False;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=True;Application Name=""SQL Server Management Studio"";Command Timeout=0";
 
         public static SqlCommand GetCommand(string sql, List<object> args, CommandType cmdType)
         {

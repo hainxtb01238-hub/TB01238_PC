@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\gameh\\Documents\\TB01238_PC\\SRC\\TB01238_PolyCafe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1E1AFED-50AD-153D-F269-B0BEA90CD280}|GUI_PolyCafe\\GUI_PolyCafe.csproj|C:\\Users\\gameh\\Documents\\TB01238_PC\\SRC\\TB01238_PolyCafe\\gui_polycafe\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B1E1AFED-50AD-153D-F269-B0BEA90CD280}|GUI_PolyCafe\\GUI_PolyCafe.csproj|solutionrelative:gui_polycafe\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B1E1AFED-50AD-153D-F269-B0BEA90CD280}|GUI_PolyCafe\\GUI_PolyCafe.csproj|c:\\users\\gameh\\documents\\tb01238_pc\\src\\tb01238_polycafe\\gui_polycafe\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E1AFED-50AD-153D-F269-B0BEA90CD280}|GUI_PolyCafe\\GUI_PolyCafe.csproj|solutionrelative:gui_polycafe\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1E1AFED-50AD-153D-F269-B0BEA90CD280}|GUI_PolyCafe\\GUI_PolyCafe.csproj|c:\\users\\gameh\\documents\\tb01238_pc\\src\\tb01238_polycafe\\gui_polycafe\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1E1AFED-50AD-153D-F269-B0BEA90CD280}|GUI_PolyCafe\\GUI_PolyCafe.csproj|solutionrelative:gui_polycafe\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D99409B-2420-4561-B5D7-6062E7AB16A2}|DAL_PolyCafe\\DAL_PolyCafe.csproj|c:\\users\\gameh\\documents\\tb01238_pc\\src\\tb01238_polycafe\\dal_polycafe\\dalnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D99409B-2420-4561-B5D7-6062E7AB16A2}|DAL_PolyCafe\\DAL_PolyCafe.csproj|solutionrelative:dal_polycafe\\dalnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E1AFED-50AD-153D-F269-B0BEA90CD280}|GUI_PolyCafe\\GUI_PolyCafe.csproj|c:\\users\\gameh\\documents\\tb01238_pc\\src\\tb01238_polycafe\\gui_polycafe\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1E1AFED-50AD-153D-F269-B0BEA90CD280}|GUI_PolyCafe\\GUI_PolyCafe.csproj|solutionrelative:gui_polycafe\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E1AFED-50AD-153D-F269-B0BEA90CD280}|GUI_PolyCafe\\GUI_PolyCafe.csproj|c:\\users\\gameh\\documents\\tb01238_pc\\src\\tb01238_polycafe\\gui_polycafe\\frmnhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E1AFED-50AD-153D-F269-B0BEA90CD280}|GUI_PolyCafe\\GUI_PolyCafe.csproj|solutionrelative:gui_polycafe\\frmnhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0054D1EE-8687-4BC4-86F2-AF59805D7478}|BLL_PolyCafe\\BLL_PolyCafe.csproj|c:\\users\\gameh\\documents\\tb01238_pc\\src\\tb01238_polycafe\\bll_polycafe\\busnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0054D1EE-8687-4BC4-86F2-AF59805D7478}|BLL_PolyCafe\\BLL_PolyCafe.csproj|solutionrelative:bll_polycafe\\busnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E1AFED-50AD-153D-F269-B0BEA90CD280}|GUI_PolyCafe\\GUI_PolyCafe.csproj|c:\\users\\gameh\\documents\\tb01238_pc\\src\\tb01238_polycafe\\gui_polycafe\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1E1AFED-50AD-153D-F269-B0BEA90CD280}|GUI_PolyCafe\\GUI_PolyCafe.csproj|solutionrelative:gui_polycafe\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E1AFED-50AD-153D-F269-B0BEA90CD280}|GUI_PolyCafe\\GUI_PolyCafe.csproj|c:\\users\\gameh\\documents\\tb01238_pc\\src\\tb01238_polycafe\\gui_polycafe\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E1AFED-50AD-153D-F269-B0BEA90CD280}|GUI_PolyCafe\\GUI_PolyCafe.csproj|solutionrelative:gui_polycafe\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D99409B-2420-4561-B5D7-6062E7AB16A2}|DAL_PolyCafe\\DAL_PolyCafe.csproj|c:\\users\\gameh\\documents\\tb01238_pc\\src\\tb01238_polycafe\\dal_polycafe\\dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D99409B-2420-4561-B5D7-6062E7AB16A2}|DAL_PolyCafe\\DAL_PolyCafe.csproj|solutionrelative:dal_polycafe\\dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5E6AB8-EA6C-4D33-BF92-C93AF01446BF}|DTO_PolyCafe\\DTO_PolyCafe.csproj|c:\\users\\gameh\\documents\\tb01238_pc\\src\\tb01238_polycafe\\dto_polycafe\\dto_polycafe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5C5E6AB8-EA6C-4D33-BF92-C93AF01446BF}|DTO_PolyCafe\\DTO_PolyCafe.csproj|solutionrelative:dto_polycafe\\dto_polycafe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,6 +49,70 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gameh\\Documents\\TB01238_PC\\SRC\\TB01238_PolyCafe\\GUI_PolyCafe\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "GUI_PolyCafe\\frmNhanVien.cs",
+              "ToolTip": "C:\\Users\\gameh\\Documents\\TB01238_PC\\SRC\\TB01238_PolyCafe\\GUI_PolyCafe\\frmNhanVien.cs [Design]",
+              "RelativeToolTip": "GUI_PolyCafe\\frmNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T04:13:41.436Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmNhanVien.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gameh\\Documents\\TB01238_PC\\SRC\\TB01238_PolyCafe\\GUI_PolyCafe\\frmNhanVien.Designer.cs",
+              "RelativeDocumentMoniker": "GUI_PolyCafe\\frmNhanVien.Designer.cs",
+              "ToolTip": "C:\\Users\\gameh\\Documents\\TB01238_PC\\SRC\\TB01238_PolyCafe\\GUI_PolyCafe\\frmNhanVien.Designer.cs",
+              "RelativeToolTip": "GUI_PolyCafe\\frmNhanVien.Designer.cs",
+              "ViewState": "AgIAABcCAAAAAAAAAAAhwCMCAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T04:13:00.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BUSNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\gameh\\Documents\\TB01238_PC\\SRC\\TB01238_PolyCafe\\BLL_PolyCafe\\BUSNhanVien.cs",
+              "RelativeDocumentMoniker": "BLL_PolyCafe\\BUSNhanVien.cs",
+              "ToolTip": "C:\\Users\\gameh\\Documents\\TB01238_PC\\SRC\\TB01238_PolyCafe\\BLL_PolyCafe\\BUSNhanVien.cs",
+              "RelativeToolTip": "BLL_PolyCafe\\BUSNhanVien.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowGsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T03:58:21.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\gameh\\Documents\\TB01238_PC\\SRC\\TB01238_PolyCafe\\GUI_PolyCafe\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "GUI_PolyCafe\\frmNhanVien.cs",
+              "ToolTip": "C:\\Users\\gameh\\Documents\\TB01238_PC\\SRC\\TB01238_PolyCafe\\GUI_PolyCafe\\frmNhanVien.cs",
+              "RelativeToolTip": "GUI_PolyCafe\\frmNhanVien.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAArwHMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T03:09:17.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DALNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\gameh\\Documents\\TB01238_PC\\SRC\\TB01238_PolyCafe\\DAL_PolyCafe\\DALNhanVien.cs",
+              "RelativeDocumentMoniker": "DAL_PolyCafe\\DALNhanVien.cs",
+              "ToolTip": "C:\\Users\\gameh\\Documents\\TB01238_PC\\SRC\\TB01238_PolyCafe\\DAL_PolyCafe\\DALNhanVien.cs",
+              "RelativeToolTip": "DAL_PolyCafe\\DALNhanVien.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAuwMAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T03:57:25.495Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
@@ -30,28 +122,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmLogin.cs",
-              "DocumentMoniker": "C:\\Users\\gameh\\Documents\\TB01238_PC\\SRC\\TB01238_PolyCafe\\GUI_PolyCafe\\frmLogin.cs",
-              "RelativeDocumentMoniker": "GUI_PolyCafe\\frmLogin.cs",
-              "ToolTip": "C:\\Users\\gameh\\Documents\\TB01238_PC\\SRC\\TB01238_PolyCafe\\GUI_PolyCafe\\frmLogin.cs",
-              "RelativeToolTip": "GUI_PolyCafe\\frmLogin.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gameh\\Documents\\TB01238_PC\\SRC\\TB01238_PolyCafe\\GUI_PolyCafe\\frmMain.cs",
+              "RelativeDocumentMoniker": "GUI_PolyCafe\\frmMain.cs",
+              "ToolTip": "C:\\Users\\gameh\\Documents\\TB01238_PC\\SRC\\TB01238_PolyCafe\\GUI_PolyCafe\\frmMain.cs [Design]",
+              "RelativeToolTip": "GUI_PolyCafe\\frmMain.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T04:39:54.141Z",
+              "WhenOpened": "2025-11-25T02:58:46.694Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\gameh\\Documents\\TB01238_PC\\SRC\\TB01238_PolyCafe\\GUI_PolyCafe\\frmMain.cs",
+              "RelativeDocumentMoniker": "GUI_PolyCafe\\frmMain.cs",
+              "ToolTip": "C:\\Users\\gameh\\Documents\\TB01238_PC\\SRC\\TB01238_PolyCafe\\GUI_PolyCafe\\frmMain.cs",
+              "RelativeToolTip": "GUI_PolyCafe\\frmMain.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAawCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T03:01:18.506Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmLogin.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\gameh\\Documents\\TB01238_PC\\SRC\\TB01238_PolyCafe\\GUI_PolyCafe\\frmLogin.cs",
-              "RelativeDocumentMoniker": "GUI_PolyCafe\\frmLogin.cs",
-              "ToolTip": "C:\\Users\\gameh\\Documents\\TB01238_PC\\SRC\\TB01238_PolyCafe\\GUI_PolyCafe\\frmLogin.cs [Design]",
-              "RelativeToolTip": "GUI_PolyCafe\\frmLogin.cs [Design]",
+              "DocumentIndex": 7,
+              "Title": "DBUtil.cs",
+              "DocumentMoniker": "C:\\Users\\gameh\\Documents\\TB01238_PC\\SRC\\TB01238_PolyCafe\\DAL_PolyCafe\\DBUtil.cs",
+              "RelativeDocumentMoniker": "DAL_PolyCafe\\DBUtil.cs",
+              "ToolTip": "C:\\Users\\gameh\\Documents\\TB01238_PC\\SRC\\TB01238_PolyCafe\\DAL_PolyCafe\\DBUtil.cs",
+              "RelativeToolTip": "DAL_PolyCafe\\DBUtil.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAA9wFoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T04:08:27.789Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-11-22T03:38:52.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DTO_PolyCafe.csproj",
+              "DocumentMoniker": "C:\\Users\\gameh\\Documents\\TB01238_PC\\SRC\\TB01238_PolyCafe\\DTO_PolyCafe\\DTO_PolyCafe.csproj",
+              "RelativeDocumentMoniker": "DTO_PolyCafe\\DTO_PolyCafe.csproj",
+              "ToolTip": "C:\\Users\\gameh\\Documents\\TB01238_PC\\SRC\\TB01238_PolyCafe\\DTO_PolyCafe\\DTO_PolyCafe.csproj",
+              "RelativeToolTip": "DTO_PolyCafe\\DTO_PolyCafe.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-22T03:38:51.338Z",
+              "EditorCaption": ""
             }
           ]
         },
