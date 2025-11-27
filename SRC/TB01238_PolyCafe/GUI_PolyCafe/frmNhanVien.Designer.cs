@@ -60,7 +60,7 @@
             btnThem = new Guna.UI2.WinForms.Guna2Button();
             panel2 = new Panel();
             guna2RadioButton3 = new Guna.UI2.WinForms.Guna2RadioButton();
-            guna2RadioButton4 = new Guna.UI2.WinForms.Guna2RadioButton();
+            rdActive = new Guna.UI2.WinForms.Guna2RadioButton();
             panel1 = new Panel();
             rdQuanLy = new Guna.UI2.WinForms.Guna2RadioButton();
             rdNhanVien = new Guna.UI2.WinForms.Guna2RadioButton();
@@ -217,11 +217,12 @@
             // panel2
             // 
             panel2.Controls.Add(guna2RadioButton3);
-            panel2.Controls.Add(guna2RadioButton4);
+            panel2.Controls.Add(rdActive);
             panel2.Location = new Point(12, 464);
             panel2.Name = "panel2";
             panel2.Size = new Size(356, 69);
             panel2.TabIndex = 13;
+            panel2.Paint += panel2_Paint;
             // 
             // guna2RadioButton3
             // 
@@ -242,24 +243,24 @@
             guna2RadioButton3.UncheckedState.InnerColor = Color.Transparent;
             guna2RadioButton3.CheckedChanged += guna2RadioButton3_CheckedChanged;
             // 
-            // guna2RadioButton4
+            // rdActive
             // 
-            guna2RadioButton4.AutoSize = true;
-            guna2RadioButton4.CheckedState.BorderColor = Color.FromArgb(94, 148, 255);
-            guna2RadioButton4.CheckedState.BorderThickness = 0;
-            guna2RadioButton4.CheckedState.FillColor = Color.FromArgb(94, 148, 255);
-            guna2RadioButton4.CheckedState.InnerColor = Color.White;
-            guna2RadioButton4.CheckedState.InnerOffset = -4;
-            guna2RadioButton4.Location = new Point(12, 22);
-            guna2RadioButton4.Name = "guna2RadioButton4";
-            guna2RadioButton4.Size = new Size(106, 25);
-            guna2RadioButton4.TabIndex = 16;
-            guna2RadioButton4.Text = "Hoạt Động";
-            guna2RadioButton4.UncheckedState.BorderColor = Color.FromArgb(125, 137, 149);
-            guna2RadioButton4.UncheckedState.BorderThickness = 2;
-            guna2RadioButton4.UncheckedState.FillColor = Color.Transparent;
-            guna2RadioButton4.UncheckedState.InnerColor = Color.Transparent;
-            guna2RadioButton4.CheckedChanged += guna2RadioButton4_CheckedChanged;
+            rdActive.AutoSize = true;
+            rdActive.CheckedState.BorderColor = Color.FromArgb(94, 148, 255);
+            rdActive.CheckedState.BorderThickness = 0;
+            rdActive.CheckedState.FillColor = Color.FromArgb(94, 148, 255);
+            rdActive.CheckedState.InnerColor = Color.White;
+            rdActive.CheckedState.InnerOffset = -4;
+            rdActive.Location = new Point(12, 22);
+            rdActive.Name = "rdActive";
+            rdActive.Size = new Size(106, 25);
+            rdActive.TabIndex = 16;
+            rdActive.Text = "Hoạt Động";
+            rdActive.UncheckedState.BorderColor = Color.FromArgb(125, 137, 149);
+            rdActive.UncheckedState.BorderThickness = 2;
+            rdActive.UncheckedState.FillColor = Color.Transparent;
+            rdActive.UncheckedState.InnerColor = Color.Transparent;
+            rdActive.CheckedChanged += guna2RadioButton4_CheckedChanged;
             // 
             // panel1
             // 
@@ -500,6 +501,8 @@
             dgrDanhSachNV.ThemeStyle.RowsStyle.Height = 31;
             dgrDanhSachNV.ThemeStyle.RowsStyle.SelectionBackColor = Color.FromArgb(231, 229, 255);
             dgrDanhSachNV.ThemeStyle.RowsStyle.SelectionForeColor = Color.FromArgb(71, 69, 94);
+            dgrDanhSachNV.CellContentClick += dgrDanhSachNV_CellContentClick;
+            dgrDanhSachNV.CellDoubleClick += dgrDanhSachNV_CellDoubleClick;
             // 
             // panel3
             // 
@@ -548,7 +551,7 @@
         
         private Panel panel2;
         private Guna.UI2.WinForms.Guna2RadioButton guna2RadioButton3;
-        private Guna.UI2.WinForms.Guna2RadioButton guna2RadioButton4;
+        private Guna.UI2.WinForms.Guna2RadioButton rdActive;
         private Panel panel1;
         private Guna.UI2.WinForms.Guna2RadioButton rdQuanLy;
         private Guna.UI2.WinForms.Guna2RadioButton rdNhanVien;
